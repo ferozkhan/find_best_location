@@ -1,0 +1,7 @@
+To help the company pick the optimal location, I will collect data using foursquare api. And then for each outlet, I will query for the 
+tips using tips api and check-ins using venue stats api.
+
+I will process The outlet with the highest tips and first. And its surroundings will be explored and related data will be collected to 
+match with other potential location. 
+
+I will recommend location with the highest similarity score for the new outlet.
